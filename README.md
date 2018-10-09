@@ -9,7 +9,5 @@
 ## Файлы 
 
 [CSS](https://github.com/Chernat/demosite/tree/master/css)
-
 [Fonts](https://github.com/Chernat/demosite/tree/master/fonts)
-
 [Images](https://github.com/Chernat/demosite/tree/master/img)
